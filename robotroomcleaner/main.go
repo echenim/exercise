@@ -41,12 +41,12 @@ package main
 // From the top left corner, its position is one row below and three columns right.
 
 func main() {
-	rm := [][]int{
-		{1, 1, 1, 1, 1, 0, 1, 1},
-		{1, 1, 1, 1, 1, 0, 1, 1},
-		{1, 0, 1, 1, 1, 1, 1, 1},
-		{0, 0, 0, 1, 0, 0, 0, 0},
-		{1, 1, 1, 1, 1, 1, 1, 1}}
+	// rm := [][]int{
+	// 	{1, 1, 1, 1, 1, 0, 1, 1},
+	// 	{1, 1, 1, 1, 1, 0, 1, 1},
+	// 	{1, 0, 1, 1, 1, 1, 1, 1},
+	// 	{0, 0, 0, 1, 0, 0, 0, 0},
+	// 	{1, 1, 1, 1, 1, 1, 1, 1}}
 }
 
 type Robot struct{}
